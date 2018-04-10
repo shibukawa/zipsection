@@ -1,4 +1,4 @@
-package zipdetect
+package zipsection
 
 // Codes in this file are from archive/zip package of golang
 

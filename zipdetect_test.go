@@ -1,4 +1,4 @@
-package zipdetect
+package zipsection
 
 import (
 	"fmt"
